@@ -1,0 +1,256 @@
+# depslib dependency file v1.0
+1480406723 source:c:\eigene programme\c++\prakcg_neu\help.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	"Include/freeglut.h"
+	"help.h"
+
+1479139942 c:\eigene programme\c++\prakcg_neu\help.h
+
+1482790801 source:c:\eigene programme\c++\prakcg_neu\template_prakcg.cpp
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	"Include/freeglut.h"
+	"Include/glext.h"
+	"help.h"
+	"window.h"
+	"wavefront.h"
+	"input.h"
+	"light.h"
+
+1474874521 c:\eigene programme\c++\prakcg_neu\glext.h
+	<windows.h>
+	<stddef.h>
+
+1482788471 c:\eigene programme\c++\prakcg_neu\wavefront.h
+	"Include/glext.h"
+
+1474874521 source:c:\eigene programme\c++\prakcg_neu\vbo.cpp
+	"vbo.h"
+
+1474874521 c:\eigene programme\c++\prakcg_neu\vbo.h
+	<GL/glut.h>
+	"glext.h"
+
+1482791369 source:c:\eigene programme\c++\prakcg_neu\wavefront.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"Include/freeglut.h"
+	"wavefront.h"
+
+1480394056 c:\eigene programme\c++\prakcg_neu\light.h
+	"Include/freeglut.h"
+
+1481576142 source:c:\eigene programme\c++\prakcg_neu\light.cpp
+	"light.h"
+
+1476628526 source:c:\eigene programme\c++\prakcg_neu\input.cpp
+	"input.h"
+	"Include/freeglut.h"
+
+1478878903 c:\eigene programme\c++\prakcg_neu\input.h
+
+1475764104 c:\eigene programme\c++\prakcg_neu\include\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1475764104 c:\eigene programme\c++\prakcg_neu\include\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1475764104 c:\eigene programme\c++\prakcg_neu\include\freeglut_ext.h
+	<stdarg.h>
+
+1474870921 c:\eigene programme\c++\prakcg_neu\include\glext.h
+	<windows.h>
+	<stddef.h>
+
+1482784930 source:c:\eigene programme\c++\prakcg_neu\window.cpp
+	"window.h"
+	"wavefront.h"
+	"input.h"
+
+1480369830 c:\eigene programme\c++\prakcg_neu\window.h
+	"Include/freeglut.h"
+
+1483174115 source:c:\eigene programme\c++\prakcg_u8\help.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<ctime>
+	"Include/freeglut.h"
+	"help.h"
+
+1475764104 c:\eigene programme\c++\prakcg_u8\include\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1475764104 c:\eigene programme\c++\prakcg_u8\include\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1475764104 c:\eigene programme\c++\prakcg_u8\include\freeglut_ext.h
+	<stdarg.h>
+
+1484014551 c:\eigene programme\c++\prakcg_u8\help.h
+
+1476628526 source:c:\eigene programme\c++\prakcg_u8\input.cpp
+	"input.h"
+	"Include/freeglut.h"
+
+1478878903 c:\eigene programme\c++\prakcg_u8\input.h
+
+1481576142 source:c:\eigene programme\c++\prakcg_u8\light.cpp
+	"light.h"
+
+1480394056 c:\eigene programme\c++\prakcg_u8\light.h
+	"Include/freeglut.h"
+
+1483173961 source:c:\eigene programme\c++\prakcg_u8\wavefront.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<math.h>
+	"Include/freeglut.h"
+	"wavefront.h"
+
+1482788471 c:\eigene programme\c++\prakcg_u8\wavefront.h
+	"Include/glext.h"
+
+1474870921 c:\eigene programme\c++\prakcg_u8\include\glext.h
+	<windows.h>
+	<stddef.h>
+
+1482784930 source:c:\eigene programme\c++\prakcg_u8\window.cpp
+	"window.h"
+	"wavefront.h"
+	"input.h"
+
+1480369830 c:\eigene programme\c++\prakcg_u8\window.h
+	"Include/freeglut.h"
+
+1484044804 source:c:\eigene programme\c++\prakcg_u8\template_prakcg.cpp
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	"Include/freeglut.h"
+	"Include/glext.h"
+	"help.h"
+	"window.h"
+	"wavefront.h"
+	"input.h"
+	"light.h"
+
+1483174115 source:c:\eigene programme\c++\prakcg_u10\help.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<ctime>
+	"Include/freeglut.h"
+	"help.h"
+
+1475764104 c:\eigene programme\c++\prakcg_u10\include\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1475764104 c:\eigene programme\c++\prakcg_u10\include\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1475764104 c:\eigene programme\c++\prakcg_u10\include\freeglut_ext.h
+	<stdarg.h>
+
+1484014551 c:\eigene programme\c++\prakcg_u10\help.h
+
+1476628526 source:c:\eigene programme\c++\prakcg_u10\input.cpp
+	"input.h"
+	"Include/freeglut.h"
+
+1478878903 c:\eigene programme\c++\prakcg_u10\input.h
+
+1481576142 source:c:\eigene programme\c++\prakcg_u10\light.cpp
+	"light.h"
+
+1480394056 c:\eigene programme\c++\prakcg_u10\light.h
+	"Include/freeglut.h"
+
+1485259025 source:c:\eigene programme\c++\prakcg_u10\template_prakcg.cpp
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	"Include/freeglut.h"
+	"Include/glext.h"
+	"help.h"
+	"window.h"
+	"wavefront.h"
+	"input.h"
+	"light.h"
+	"image.h"
+
+1474870921 c:\eigene programme\c++\prakcg_u10\include\glext.h
+	<windows.h>
+	<stddef.h>
+
+1480369830 c:\eigene programme\c++\prakcg_u10\window.h
+	"Include/freeglut.h"
+
+1482788471 c:\eigene programme\c++\prakcg_u10\wavefront.h
+	"Include/glext.h"
+
+1483173961 source:c:\eigene programme\c++\prakcg_u10\wavefront.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<math.h>
+	"Include/freeglut.h"
+	"wavefront.h"
+
+1482784930 source:c:\eigene programme\c++\prakcg_u10\window.cpp
+	"window.h"
+	"wavefront.h"
+	"input.h"
+
+1485252308 source:c:\eigene programme\c++\prakcg_u10\image.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<io.h>
+	<unistd.h>
+	"image.h"
+
+1485246756 c:\eigene programme\c++\prakcg_u10\image.h
+	"Include/freeglut.h"
+	<GL/freeglut.h>
+
