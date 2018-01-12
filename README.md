@@ -1,15 +1,9 @@
-# Sunsystem with OpenGL
-One of my projects as students was the development of an OpenGL application with C++. I have implemented the sun-system as OpenGL application with textured planets which rotates around the sun and around itself. The sun is shining to all planets as a point light which can be turned on and off.
+# Sun system with OpenGL
+One of my projects as student was the development of an OpenGL application with C++. I have implemented the sun-system as OpenGL application with textured planets which rotates around the sun and around itself. The sun is shining to all planets as a point light which can be turned on and off.
 The planetsize of the diameter and the rotation speed around the sun is true to scale. The own rotation speed is constant for each planet. Also the distance of each planet to the sun is equal to all for a better overview.
 
 <p align="center">
   <img alt="sunsystem" src="/screenshots/sunsystem.png">
-</p>
-
-Earth with satellite:
-
-<p align="center">
-  <img alt="scenegraph" src="/screenshots/earth.png">
 </p>
 
 The animation of the sunsystem can be stopped and resumed and the speed of the planets can be increased or decreased.
@@ -28,6 +22,12 @@ With a blending the cloud cover is placed onto the earth and rotates with the ea
 
 <p align="center">
   <img alt="scenegraph" src="/screenshots/satellite.png">
+</p>
+
+Earth with satellite:
+
+<p align="center">
+  <img alt="scenegraph" src="/screenshots/earth.png">
 </p>
 
 ## Manual
