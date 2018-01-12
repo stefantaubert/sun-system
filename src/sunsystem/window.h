@@ -11,7 +11,7 @@
 //	Fenster Initialisierung
 /////////////////////////////////////////////////////////////////////////////////
 //! Fenstertitel
-#define PROG_NAME	"PrakCG-Sonnensystem"
+#define PROG_NAME	"Sonnensystem"
 
 //! Die Startposition des Fensters (linke, obere Ecke)
 #define WIN_POS_X	0

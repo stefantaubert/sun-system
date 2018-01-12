@@ -21,7 +21,7 @@ You can choose between two camera views:
 The scenegraph looks like:
 
 <p align="center">
-  <img alt="scenegraph" src="/images/scenegraph.png">
+  <img alt="scenegraph" src="/res/other/scenegraph.png">
 </p>
 
 With a blending the cloud cover is placed onto the earth and rotates with the earth. With Blender I created a satellite which rotates around the earth:
@@ -32,17 +32,17 @@ With a blending the cloud cover is placed onto the earth and rotates with the ea
 
 ## Manual
 
-f: toggle fps
-h: help
-k: toggle coordinate system 
-w: toggle wireframe
-l: toggle lightning
-c: toggle backfaceculling
-i: initialize camera settings
-a: toggle animation (only by viewing at sun)
-x: toggle view to sun from planet
-left/right: toggle camera
-up/down: adjust rotation speed 
+- f: toggle fps
+- h: help
+- k: toggle coordinate system 
+- w: toggle wireframe
+- l: toggle lightning
+- c: toggle backfaceculling
+- i: initialize camera settings
+- a: toggle animation (only by viewing at sun)
+- x: toggle view to sun from planet
+- left/right: toggle camera
+- up/down: adjust rotation speed 
 
 ## Acknowledgements
 

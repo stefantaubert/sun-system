@@ -14,7 +14,7 @@
     <ProjectGuid>{61D04787-7374-46FC-A4EB-86CFE79181F9}</ProjectGuid>
     <RootNamespace>Template_PrakCG</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>cg-proj</ProjectName>
+    <ProjectName>sun-system</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <Choose>
